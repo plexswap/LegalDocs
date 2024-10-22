@@ -15,7 +15,7 @@ const Text = styled.p<{ as?: string; fontWeight?: string }>`
   margin-bottom: ${({ as }) => (as === 'p' ? '1em' : '0')};
   line-height: ${({ as }) => (as === 'p' ? '24px' : 'normal')};
   margin: ${({ as }) => (as === 'h3' ? '1em 0 0.5em' : '0')};
-  color: #444444;
+  color: #926402;
 `;
 
 const Link = styled.a`
@@ -55,7 +55,7 @@ export const Container = styled(Flex)`
 
   li {
     margin: 0.5em 0px 0px 1em;
-    color: #444444;
+${({ theme }) => theme.colors.text};
   }
 `
 
