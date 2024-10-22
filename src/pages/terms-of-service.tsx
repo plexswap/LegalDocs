@@ -15,7 +15,7 @@ const Text = styled.p<{ as?: string; fontWeight?: string }>`
   margin-bottom: ${({ as }) => (as === 'p' ? '1em' : '0')};
   line-height: ${({ as }) => (as === 'p' ? '24px' : 'normal')};
   margin: ${({ as }) => (as === 'h3' ? '1em 0 0.5em' : '0')};
-  color: #926402;
+  color: #444444;
 `;
 
 const Link = styled.a`
