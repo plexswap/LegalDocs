@@ -62,422 +62,346 @@ ${({ theme }) => theme.colors.text};
 const TermsOfService = () => {
   return (
     <Container>
-      <Text as="h1">Plexswap Termoss of Serviço</Text>
-      <Text as="h3">Last modified: Feb 28, 2023</Text>
+      <Text as="h1">Plexswap Termos de Serviço</Text>
+      <Text as="h3">Última modificação: Nov 11, 2024</Text>
       <Text as="p">
         <Text as="span">
-          These Terms of Service (the “Agreement”) explains the terms and conditions by which you may access and use
+        Estes Termos de Serviço (o “Acordo”) estabelecem os termos e condições que regem seu acesso e uso da 
+        Plataforma Plex, incluindo o site em
         </Text>
         <Link href="https://plexfinance.us">
           https://plexfinance.us 
         </Link>
         <Text as="span">
-          and any subdomains associated with the Website. You must read this Agreement carefully as it governs your use
-          of the Website. By accessing or using the Website, you signify that you have read, understand, and agree to be
-          bound by this Agreement in its entirety. If you do not agree, you are not authorized to access or use the
-          Website and should not use the Website.
+          e todos os subdomínios associados. Você deve ler atentamente este Acordo, pois ele regula o uso da 
+          Plataforma. Ao acessar ou usar a Plataforma, você declara que leu, entendeu e concorda em estar 
+          vinculado a este Acordo em sua totalidade. Caso não concorde, você não está autorizado a acessar ou 
+          usar a Plataforma e deve abster-se de utilizá-la.
         </Text>
       </Text>
 
       <Text as="p" fontWeight="600">
-        NOTICE: This Agreement contains important information, including a binding arbitration provision and a class
-        action waiver, both of which impact your rights as to how disputes are resolved. The Website is only available
-        to you — and you should only access the Website — if you agree completely with these terms.
+        AVISO: Este Acordo contém informações importantes e inclui uma renúncia ao direito de buscar ação legal 
+        em qualquer foro, o que pode impactar seus direitos em relação à resolução de disputas. A Plataforma 
+        está disponível para você — e você deve acessá-la apenas — se concordar integralmente com estes termos.
       </Text>
 
-      <Text as="h3">Introduction</Text>
+      <Text as="h3">Introdução</Text>
       <Text as="p">
-        The Website provides access to (a) a decentralized protocol on various public blockchains, including but not
-        limited to BNB Chain, Aptos and Ethereum, that allow users to trade certain compatible digital assets (“the
-        Plexswap protocol” or the “Protocol”), among other services. The Website is one, but not the exclusive, means
-        of accessing the Protocol.
+        A Plataforma oferece acesso a (a) um protocolo descentralizado em várias blockchains públicas, incluindo, 
+        mas não se limitando, à BNB Chain e Ethereum, permitindo que os usuários negociem certos ativos digitais 
+        compatíveis (o “Protocolo Plexswap” ou o “Protocolo”), entre outros serviços. A Plataforma é um, mas não 
+        o único, meio de acessar o Protocolo.
       </Text>
       <Text as="p">
-        To access the Website, you must use non-custodial wallet software, which allows you to interact with public
-        blockchains. Your relationship with that non-custodial wallet provider is governed by the applicable terms of
-        service of that third party, not this Agreement. Wallets are not operated by, maintained by, or affiliated with
-        us, and we do not have custody or control over the contents of your wallet and have no ability to retrieve or
-        transfer its contents. By connecting your wallet to our Website, you agree to be bound by this Agreement and all
-        of the terms incorporated herein by reference.
+        Para acessar a Plataforma, você deve utilizar um software de carteira não custodial, que permite interagir 
+        com blockchains públicas. Sua relação com o provedor de carteira não custodial é regida pelos termos de 
+        serviço aplicáveis de terceiros, não por este Acordo. As carteiras não são operadas, mantidas ou afiliadas 
+        a nós, e não temos custódia ou controle sobre o conteúdo de sua carteira, nem a capacidade de recuperar ou 
+        transferir seus ativos. Ao conectar sua carteira à nossa Plataforma, você concorda em estar vinculado a 
+        este Acordo e a todos os termos incorporados por referência.
       </Text>
 
-      <Text as="h3">Modification of this Agreement</Text>
+      <Text as="h3">Modificação deste Acordo</Text>
       <Text as="p">
         <Text as="span">
-          We reserve the right, in our sole discretion, to modify this Agreement from time to time. If we make any
-          material modifications, we will notify you by updating the date at the top of the Agreement and by maintaining
-          a current version of the Agreement at
+          Reservamo-nos o direito de, a nosso exclusivo critério, modificar este Acordo periodicamente. Se realizarmos 
+          modificações materiais, notificaremos você, atualizando a data no início do Acordo e mantendo uma versão 
+          atual no endereço
         </Text>
-        <Link href="https://docas-legal.plexfinance.us/terms-of-service">
-          https://docs-legal.plexfinance.us/terms-of-service.
+        <Link href="https://docs-legal.plexfinance.us/termos-de-servico">
+          https://docs-legal.plexfinance.us/termos-de-servico.
         </Link>
         <Text as="span">
-          All modifications will be effective when they are posted, and your continued accessing or use of the Website
-          will serve as confirmation of your acceptance of those modifications. If you do not agree with any
-          modifications to this Agreement, you must immediately stop accessing and using the Website.
+          Todas as modificações entrarão em vigor quando publicadas, e seu acesso ou uso contínuo da Plataforma 
+          confirmará sua aceitação das modificações. Caso não concorde com alguma modificação, você deve cessar 
+          imediatamente o acesso e o uso da Plataforma.
         </Text>
       </Text>
 
-      <Text as="h3">Description of Services provided through the Website</Text>
-      <Text as="p">The Website provides a web or mobile-based means of accessing the Protocol.</Text>
+      <Text as="h3">Descrição dos Serviços fornecidos pela Plataforma</Text>
+      <Text as="p">A Plataforma oferece um meio web ou móvel de acesso ao Protocolo.</Text>
 
-      <Text as="h3">Website for accessing Protocol</Text>
+      <Text as="h3">Plataforma para acessar o Protocolo</Text>
       <Text as="p">
-        The Website is distinct from the Protocol and is one, but not the exclusive, means of accessing the Protocol.
-        The Protocol itself has three versions, designated as v1, v2, and v3, each of which comprises open-source or
-        source-available self-executing smart contracts that are deployed on various public blockchains, such as BNB
-        Chain, Aptos and Ethereum. Plexswap does not control or operate any version of the Protocol on any blockchain
-        network. By using the Website, you understand that you are not buying or selling digital assets from us and that
-        we do not operate any liquidity pools on the Protocol or control trade execution on the Protocol. When traders
-        pay fees for trades, those fees accrue to liquidity providers for the Protocol. As a general matter, the
-        Plexswap team is not a liquidity provider into Protocol liquidity pools and liquidity providers are
-        independent third parties. The Protocol was initially deployed on the BNB Chain blockchain, and has since been
-        deployed on several other blockchain networks.
-      </Text>
-
-      <Text as="h3">Eligibility</Text>
-      <Text as="p">
-        To access or use the Website, you must be able to form a legally binding contract with us. Accordingly, you
-        represent that you are at least the age of majority in your jurisdiction (e.g., 18 years old in the United
-        States) and have the full right, power, and authority to enter into and comply with the terms and conditions of
-        this Agreement on behalf of yourself and any company or legal entity for which you may access or use the
-        Website.
-      </Text>
-      <Text as="p">
-        You further represent that you are not (a) the subject of economic or trade sanctions administered or enforced
-        by any governmental authority or otherwise designated on any list of prohibited or restricted parties (including
-        but not limited to the list maintained by the Office of Foreign Assets Control of the U.S. Department of the
-        Treasury) or (b) a citizen, resident, or organized in a jurisdiction or territory that is the subject of
-        comprehensive country-wide, territory-wide, or regional economic sanctions by the United States. Finally, you
-        represent that your access and use of the Website will fully comply with all applicable laws and regulations,
-        and that you will not access or use the Website to conduct, promote, or otherwise facilitate any illegal
-        activity.
+        A Plataforma é distinta do Protocolo e é um, mas não o único, meio de acesso ao Protocolo. O Protocolo 
+        tem duas versões, designadas Core e Extended, cada uma composta de contratos inteligentes de código aberto 
+        ou com código disponível, executados em várias blockchains públicas, como BNB Chain e Ethereum. A equipe 
+        do Plexswap não controla nem opera qualquer versão do Protocolo em nenhuma rede blockchain. Ao utilizar 
+        esta Plataforma, você reconhece que, com excessão do token PLEX-F e do token WAYA, você não está comprando 
+        ou vendendo ativos digitais diretamente de nós. Nós não gerenciamos pools de liquidez nem controlamos a 
+        execução de negociações no Protocolo. As taxas de negociação pagas pelos usuários são direcionadas a 
+        provedores de liquidez independentes no Protocolo. A equipe do Plexswap tem uma política geral de não atuar 
+        como provedora de liquidez em pools de liquidez do Protocolo, exceto em alguns pools que incluem o token 
+        PLEX-F ou o token WAYA.
       </Text>
 
-      <Text as="h3">Intellectual Property Rights</Text>
+      <Text as="h3">Elegibilidade</Text>
       <Text as="p">
-        Plexswap owns all intellectual property and other rights in the Website and its contents, including (but not
-        limited to) software, text, images, trademarks, service marks, copyrights, patents, designs, and its “look and
-        feel.” Unlike the Website, versions 1-3 of the Protocol are comprised entirely of open-source or
-        source-available software running on public blockchains.
+        Para acessar ou usar a Plataforma, você deve estar apto a firmar um contrato legalmente vinculativo conosco.
+        Assim, você declara ter pelo menos a idade mínima para ser considerado maior de idade em sua jurisdição (por 
+        exemplo, 18 anos no Brasil) e ter total direito, poder e autoridade para aceitar e cumprir os termos e 
+        condições deste Acordo em seu nome e em nome de qualquer empresa ou entidade legal pela qual possa acessar 
+        ou usar a Plataforma.
       </Text>
       <Text as="p">
-        By using the Website to list, post, promote, or display NFTs, you grant us a worldwide, non-exclusive,
-        sublicensable, royalty-free license to use, copy, modify, and display any content, including but not limited to
-        text, materials, images, files, communications, comments, feedback, suggestions, ideas, concepts, questions,
-        data, or otherwise, that you post on or through the Website for our current and future business purposes,
-        including to provide, promote, and improve the services. This includes any digital file, art, or other material
-        linked to or associated with any NFTs that are displayed.
-      </Text>
-      <Text as="p">
-        You represent and warrant that you have, or have obtained, all rights, licenses, consents, permissions, power
-        and/or authority necessary to grant the rights granted herein for any NFTs that you list, post, promote, or
-        display on or through the Website. You represent and warrant that such content does not contain material subject
-        to copyright, trademark, publicity rights, or other intellectual property rights, unless you have necessary
-        permission or are otherwise legally entitled to post the material and to grant us the license described above,
-        and that the content does not violate any laws.
+        Além disso, você declara que não está (a) sujeito a sanções econômicas ou comerciais administradas ou aplicadas 
+        por qualquer autoridade governamental, nem incluído em qualquer lista de partes proibidas ou restritas (incluindo, 
+        mas não se limitando à lista mantida pelo Escritório de Controle de Ativos Estrangeiros do Departamento do 
+        Tesouro dos EUA) ou (b) cidadão, residente ou registrado em uma jurisdição ou território sujeito a sanções 
+        econômicas abrangentes impostas pelos Estados Unidos. Por fim, você declara que seu acesso e uso da Plataforma 
+        estarão em total conformidade com todas as leis e regulamentos aplicáveis e que não utilizará a Plataforma para 
+        conduzir, promover ou facilitar qualquer atividade ilegal.
       </Text>
 
-      <Text as="h3">Additional Rights</Text>
+      <Text as="h3">Direitos de Propriedade Intelectual</Text>
       <Text as="p">
-        We reserve the following rights, which do not constitute obligations of ours: (a) with or without notice to you,
-        to modify, substitute, eliminate or add to the Website; (b) to review, modify, filter, disable, delete and
-        remove any and all content and information from the Website; and (c) to cooperate with any law enforcement,
-        court or government investigation or order or third party requesting or directing that we disclose information
-        or content or information that you provide.
+        A Plataforma e as versões Core e Extended do Protocolo são compostas inteiramente por software de código aberto 
+        ou com código disponível na plataforma GITHUB, operando em blockchains públicas.
       </Text>
 
-      <Text as="h3">Prohibited Activity</Text>
+      <Text as="h3">Direitos Adicionais</Text>
       <Text as="p">
-        You agree not to engage in, or attempt to engage in, any of the following categories of prohibited activity in
-        relation to your access and use of the Website:
+        Reservamo-nos os seguintes direitos, que não constituem obrigações: (a) com ou sem notificação, modificar, 
+        substituir, eliminar ou adicionar à Plataforma; (b) revisar, modificar, filtrar, desativar, excluir e remover 
+        qualquer conteúdo e informações da Plataforma; e (c) cooperar com qualquer autoridade policial, ordem judicial 
+        ou investigação governamental ou terceiro solicitando ou ordenando que divulguemos informações ou conteúdos 
+        fornecidos por você.
+      </Text>
+
+      <Text as="h3">Atividades Proibidas</Text>
+      <Text as="p">
+        Você concorda em não se envolver, ou tentar se envolver, em qualquer uma das seguintes categorias de atividades 
+        proibidas em relação ao seu acesso e uso da Plataforma:
       </Text>
       <ul>
         <li>
-          Intellectual Property Infringement. Activity that infringes on or violates any copyright, trademark, service
-          mark, patent, right of publicity, right of privacy, or other proprietary or intellectual property rights under
-          the law.
+          Ocultação da Origem de Fundos. Atividade destinada a ocultar a origem de fundos, incluindo lavagem de dinheiro 
+          ilícito e obtenção de benefícios por meio de evasão fiscal.
         </li>
         <li>
-          Cyberattack. Activity that seeks to interfere with or compromise the integrity, security, or proper
-          functioning of any computer, server, network, personal device, or other information technology system,
-          including (but not limited to) the deployment of viruses and denial of service attacks.
+          Fraude e Distorção de Informações. Atividades fraudulentas ou enganosas, incluindo a apresentação de informações 
+          falsas para obter propriedade de terceiros de forma ilícita.
         </li>
         <li>
-          Fraud and Misrepresentation. Activity that seeks to defraud us or any other person or entity, including (but
-          not limited to) providing any false, inaccurate, or misleading information in order to unlawfully obtain the
-          property of another.
+          Manipulação de Mercado. Atividades que violam leis ou regulamentações aplicáveis à integridade dos mercados 
+          de negociação, como práticas conhecidas como “rug pulls”, “pumping and dumping” e “wash trading”.
         </li>
         <li>
-          Market Manipulation. Activity that violates any applicable law, rule, or regulation concerning the integrity
-          of trading markets, including (but not limited to) the manipulative tactics commonly known as “rug pulls”,
-          pumping and dumping, and wash trading.
+          Violação de Valores Mobiliários e Derivativos. Atividades que violam leis, regras ou regulamentos aplicáveis 
+          ao comércio de valores mobiliários ou derivativos.
         </li>
         <li>
-          Securities and Derivatives Violations. Activity that violates any applicable law, rule, or regulation
-          concerning the trading of securities or derivatives, including (but not limited to) the unregistered offering
-          of securities and the offering of leveraged and margined commodity products to retail customers in the United
-          States.
+          Venda de Propriedade Roubada. Compra, venda ou transferência de itens roubados, fraudados ou obtidos sem 
+          autorização.
         </li>
         <li>
-          Sale of Stolen Property. Buying, selling, or transferring of stolen items, fraudulently obtained items, items
-          taken without authorization, and/or any other illegally obtained items.
+          Mineração de Dados or Scraping. Uso de mineração de dados, robôs, "scraping" ou métodos similares de extração 
+          de conteúdo ou informações da Plataforma.
         </li>
         <li>
-          Data Mining or Scraping. Activity that involves data mining, robots, scraping, or similar data gathering or
-          extraction methods of content or information from the Website.
-        </li>
-        <li>
-          Objectionable Content. Activity that involves soliciting information from anyone under the age of 18 or that
-          is otherwise harmful, threatening, abusive, harassing, tortious, excessively violent, defamatory, vulgar,
-          obscene, pornographic, libelous, invasive of another’s privacy, hateful, discriminatory, or otherwise
-          objectionable.
-        </li>
-        <li>
-          Any Other Unlawful Conduct. Activity that violates any applicable law, rule, or regulation of the United
-          States or another relevant jurisdiction, including (but not limited to) the restrictions and regulatory
-          requirements imposed by U.S. law.
+          Qualquer Outra Conduta Ilegal. Atividades que violem leis, regras ou regulamentos aplicáveis do Brasil ou outra 
+          jurisdição relevante.
         </li>
       </ul>
 
-      <Text as="h3">Initial Farm Offering</Text>
+      <Text as="h3">Não Registrado na CVM ou Qualquer Outro Órgão</Text>
       <Text as="p">
-        You represent that you are not a user from the following countries or regions when participating in our Initial
-        Farm Offerings:
-      </Text>
-      <Text as="p">
-        Belarus, Cuba, Crimea Region, Democratic Republic of Congo, Iran, Iraq, New Zealand, North Korea, South Sudan,
-        Sudan, Syria, United States of America and its territories (American Samoa, Guam, Puerto Rico, the Northern
-        Mariana Islands, and the U.S. Virgin Islands), Zimbabwe.
-      </Text>
-
-      <Text as="h3">Not Registered with the SEC or Any Other Agency</Text>
-      <Text as="p">
-        We are not registered with the U.S. Securities and Exchange Commission as a national securities exchange or in
-        any other capacity. You understand and acknowledge that we do not broker trading orders on your behalf. We also
-        do not facilitate the execution or settlement of your trades, which occur entirely on the public distributed
-        blockchains like Ethereum. As a result, we do not (and cannot) guarantee market best pricing or best execution
-        through the Website or when using our Smart Router feature, which routes trades across liquidity pools on the
-        Protocol only. Any references in the Website to “best price” do not constitute a representation or warranty
-        about pricing available through the Website, on the Protocol, or elsewhere.
+        Nós não estamos registrados na Comissão de Valores Mobiliários do Brasil (CVM) ou qualquer outro órgão regulador.
+        Você entende e reconhece que não intermediamos ordens de negociação em seu nome. Também não facilitamos a execução 
+        ou liquidação de suas negociações, que ocorrem inteiramente nas blockchains públicas distribuídas, como Ethereum. 
+        Como resultado, não garantimos (e não podemos) garantir os melhores preços de mercado ou a melhor execução por 
+        meio da Plataforma ou ao usar nosso recurso de Roteador Inteligente, que roteia negociações apenas por meio de 
+        pools de liquidez no Protocolo. Qualquer referência na Plataforma a “melhor preço” não constitui uma garantia 
+        sobre os preços disponíveis através da Plataforma, no Protocolo ou em outro lugar.
       </Text>
 
-      <Text as="h3">Non-Solicitation; No Investment Advice</Text>
+      <Text as="h3">Não-Solicitação; Nenhum Conselho de Investimento</Text>
       <Text as="p">
-        You agree and understand that: (a) all trades you submit through the Website are considered unsolicited, which
-        means that they are solely initiated by you; (b) you have not received any investment advice from us in
-        connection with any trades, including those you place via our Smart Router API; and (c) we do not conduct a
-        suitability review of any trades you submit.
+        Você concorda e entende que: (a) todas as negociações que você enviar através da Plataforma são consideradas 
+        não solicitadas, o que significa que são exclusivamente iniciadas por você; (b) você não recebeu nenhum conselho 
+        de investimento de nossa parte em conexão com qualquer negociação, incluindo aquelas que você realiza por meio 
+        da nossa API do Roteador Inteligente; e (c) nós não realizamos uma revisão de adequação de qualquer negociação 
+        que você enviar.
       </Text>
       <Text as="p">
-        We may provide information about tokens in the Website sourced from third-party data partners through features
-        such as rarity scores, token explorer or token lists (which includes the Plexswap default token list and
-        Plexswap expanded list hosted at tokenlists.org). We may also provide warning labels for certain tokens. The
-        provision of informational materials does not make trades in those tokens solicited; we are not attempting to
-        induce you to make any purchase as a result of information provided. All such information provided by the
-        Website is for informational purposes only and should not be construed as investment advice or a recommendation
-        that a particular token is a safe or sound investment. You should not take, or refrain from taking, any action
-        based on any information contained in the Website. By providing token information for your convenience, we do
-        not make any investment recommendations to you or opine on the merits of any transaction or opportunity. You
-        alone are responsible for determining whether any investment, investment strategy or related transaction is
-        appropriate for you based on your personal investment objectives, financial circumstances, and risk tolerance.
-      </Text>
-
-      <Text as="h3">Non-Custodial and No Fiduciary Duties</Text>
-      <Text as="p">
-        The Website is a purely non-custodial application, meaning we do not ever have custody, possession, or control
-        of your digital assets at any time. It further means you are solely responsible for the custody of the
-        cryptographic private keys to the digital asset wallets you hold and you should never share your wallet
-        credentials or seed phrase with anyone. We accept no responsibility for, or liability to you, in connection with
-        your use of a wallet and make no representations or warranties regarding how the Website will operate with any
-        specific wallet. Likewise, you are solely responsible for any associated wallet and we are not liable for any
-        acts or omissions by you in connection with or as a result of your wallet being compromised.
-      </Text>
-      <Text as="p">
-        This Agreement is not intended to, and does not, create or impose any fiduciary duties on us. To the fullest
-        extent permitted by law, you acknowledge and agree that we owe no fiduciary duties or liabilities to you or any
-        other party, and that to the extent any such duties or liabilities may exist at law or in equity, those duties
-        and liabilities are hereby irrevocably disclaimed, waived, and eliminated. You further agree that the only
-        duties and obligations that we owe you are those set out expressly in this Agreement.
+        Podemos fornecer informações sobre tokens na Plataforma obtidas a partir de dados de terceiros através de recursos 
+        como avaliação de riscos e listas de tokens (que incluem a lista padrão de tokens da Plataforma). Também podemos 
+        fornecer rótulos de aviso para certos tokens. A provisão de materiais informativos não torna as negociações desses 
+        tokens solicitadas; não estamos tentando induzi-lo a realizar qualquer compra como resultado das informações 
+        fornecidas. Todas essas informações fornecidas pela Plataforma são apenas para fins informativos e não devem ser 
+        interpretadas como aconselhamento de investimento ou uma recomendação de que um determinado token seja um 
+        investimento seguro ou sólido. Você não deve tomar, ou se abster de tomar, qualquer ação com base em qualquer 
+        informação contida na Plataforma. Ao fornecer informações sobre tokens para sua conveniência, não fazemos nenhuma 
+        recomendação de investimento para você, nem opinamos sobre os méritos de qualquer transação ou oportunidade. 
+        Você é o único responsável por determinar se qualquer investimento, estratégia de investimento ou transação 
+        relacionada é apropriada para você com base em seus objetivos de investimento pessoais, circunstâncias financeiras 
+        e tolerância ao risco.
       </Text>
 
-      <Text as="h3">Compliance and Tax Obligations</Text>
+      <Text as="h3">Não-Custodiante e Nenhum Dever Fiduciário</Text>
       <Text as="p">
-        The Website may not be available or appropriate for use in your jurisdiction. By accessing or using the Website,
-        you agree that you are solely and entirely responsible for compliance with all laws and regulations that may
-        apply to you.
+        A Plataforma é uma aplicação puramente não-custodial, o que significa que nunca temos custódia, posse ou controle 
+        de seus ativos digitais em nenhum momento. Isso significa ainda que você é o único responsável pela custódia das 
+        chaves privadas criptográficas das carteiras de ativos digitais que possui e nunca deve compartilhar suas 
+        credenciais de carteira ou frase-semente com ninguém. Não aceitamos nenhuma responsabilidade por, ou obrigação 
+        para com você, em conexão com o uso de uma carteira e não fazemos representações ou garantias sobre como a 
+        Plataforma funcionará com qualquer carteira específica. Da mesma forma, você é o único responsável por qualquer 
+        carteira associada e não somos responsáveis por quaisquer atos ou omissões de sua parte em conexão ou como 
+        resultado de sua carteira ser comprometida.
       </Text>
       <Text as="p">
-        Specifically, your use of the Website or the Protocol may result in various tax consequences, such as income or
-        capital gains tax, value-added tax, goods and services tax, or sales tax in certain jurisdictions.It is your
-        responsibility to determine whether taxes apply to any transactions you initiate or receive and, if so, to
-        report and/or remit the correct tax to the appropriate tax authority.
-      </Text>
-
-      <Text as="h3">Assumption of Risk</Text>
-      <Text as="p">
-        By accessing and using the Website, you represent that you are financially and technically sophisticated enough
-        to understand the inherent risks associated with using cryptographic and blockchain-based systems, and that you
-        have a working knowledge of the usage and intricacies of digital assets such as ether (ETH), so-called
-        stablecoins, and other digital tokens such as those following the Ethereum Token Standard (ERC-20), or standards
-        of any other digital tokens which are transacted on Plexswap.
-      </Text>
-      <Text as="p">
-        In particular, you understand that the markets for these digital assets are nascent and highly volatile due to
-        risk factors including (but not limited to) adoption, speculation, technology, security, and regulation. You
-        understand that anyone can create a token, including fake versions of existing tokens and tokens that falsely
-        claim to represent projects, and acknowledge and accept the risk that you may mistakenly trade those or other
-        tokens. So-called stablecoins may not be as stable as they purport to be, may not be fully or adequately
-        collateralized, and may be subject to panics and runs.
-      </Text>
-      <Text as="p">
-        Further, you understand that smart contract transactions automatically execute and settle, and that
-        blockchain-based transactions are irreversible when confirmed. You acknowledge and accept that the cost and
-        speed of transacting with cryptographic and blockchain-based systems such as Ethereum are variable and may
-        increase dramatically at any time. You further acknowledge and accept the risk of selecting to trade in Expert
-        Modes, which can expose you to potentially significant price slippage and higher costs.
-      </Text>
-      <Text as="p">
-        If you act as a liquidity provider to the Protocol through the Website, you understand that your digital assets
-        may lose some or all of their value while they are supplied to the Protocol through the Website due to the
-        fluctuation of prices of tokens in a trading pair or liquidity pool.
-      </Text>
-      <Text as="p">
-        Finally, you understand that we do not create, own, or operate cross-chain bridges and we do not make any
-        representation or warranty about the safety or soundness of any cross-chain bridge, including its use for
-        Plexswap governance.
-      </Text>
-      <Text as="p">
-        In summary, you acknowledge that we are not responsible for any of these variables or risks, do not own or
-        control the Protocol, and cannot be held liable for any resulting losses that you experience while accessing or
-        using the Website. Accordingly, you understand and agree to assume full responsibility for all of the risks of
-        accessing and using the Website to interact with the Protocol.
+        Este Acordo não tem a intenção de, e não cria ou impõe, quaisquer deveres fiduciários sobre nós. Na máxima 
+        extensão permitida por lei, você reconhece e concorda que não temos deveres ou responsabilidades fiduciárias 
+        para com você ou qualquer outra parte, e que, na medida em que tais deveres ou responsabilidades possam ser 
+        previstos por lei, esses deveres e responsabilidades são, por meio deste, irrevogavelmente renunciados e 
+        eliminados. Você concorda ainda que os únicos deveres e obrigações que devemos a você são aqueles expressamente 
+        estabelecidos neste Acordo.
       </Text>
 
-      <Text as="h3">Third-Party Resources and Promotions</Text>
+      <Text as="h3">Conformidade e Obrigações Fiscais</Text>
       <Text as="p">
-        The Website may contain references or links to third-party resources, including (but not limited to)
-        information, materials, products, or services, that we do not own or control. In addition, third parties may
-        offer promotions related to your access and use of the Website. We do not approve, monitor, endorse, warrant or
-        assume any responsibility for any such resources or promotions. If you access any such resources or participate
-        in any such promotions, you do so at your own risk, and you understand that this Agreement does not apply to
-        your dealings or relationships with any third parties. You expressly relieve us of any and all liability arising
-        from your use of any such resources or participation in any such promotions.
+        A Plataforma pode não estar disponível ou apropriada para uso em sua jurisdição. Ao acessar ou usar a Plataforma, 
+        você concorda que é o único e totalmente responsável pela conformidade com todas as leis e regulamentos que podem 
+        se aplicar a você.
+      </Text>
+      <Text as="p">
+        Especificamente, seu uso da Plataforma ou do Protocolo pode resultar em várias consequências fiscais, como 
+        imposto de renda sobre ganho de capital, imposto sobre valor agregado, imposto sobre bens e serviços, ou 
+        imposto sobre vendas em certas jurisdições. É sua responsabilidade determinar se os impostos se aplicam a quaisquer 
+        transações que você inicie ou receba e, se sim, relatar e/ou remeter o imposto correto à autoridade fiscal apropriada.
       </Text>
 
-      <Text as="h3">Release of Claims</Text>
+      <Text as="h3">Assunção de Risco</Text>
       <Text as="p">
-        You expressly agree that you assume all risks in connection with your access and use of the Website. You further
-        expressly waive and release us from any and all liability, claims, causes of action, or damages arising from or
-        in any way relating to your use of the Website. If you are a California resident, you waive the benefits and
-        protections of California Civil Code § 1542, which provides: "[a] general release does not extend to claims that
-        the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing
-        the release and that, if known by him or her, would have materially affected his or her settlement with the
-        debtor or released party."
+        Ao acessar e usar a Plataforma, você declara que é financeiramente e tecnicamente sofisticado o suficiente para 
+        entender os riscos inerentes associados ao uso de sistemas de criptoativos, baseados em blockchain, e que possui 
+        conhecimento prático sobre o uso e as complexidades de ativos digitais como ether (ETH) e outros tokens digitais, 
+        como aqueles que seguem o Padrão de Token Ethereum (ERC-20), ou padrões de quaisquer outros tokens digitais que 
+        são negociados na Plataforma.
+      </Text>
+      <Text as="p">
+        Você reconhece que os mercados de ativos digitais ainda estão se desenvolvendo e são altamente voláteis, 
+        influenciados por vários fatores de risco, incluindo adoção, especulação, tecnologia, segurança e regulação. 
+        Você entende que qualquer pessoa pode criar tokens, incluindo versões falsificadas de tokens existentes ou 
+        tokens que afirmam falsamente representar projetos legítimos, e aceita o risco de potencialmente negociar tais 
+        tokens por engano. Além disso, os chamados "stablecoins" podem não ser tão estáveis quanto afirmado, podem 
+        carecer de "colateralização" total ou adequada, e podem ser vulneráveis a pânicos ou súbitas corridas de liquidez.
+      </Text>
+      <Text as="p">
+        Além disso, você entende que transações de contratos inteligentes se executam e se liquidam automaticamente, e que 
+        transações baseadas em blockchain são irreversíveis quando confirmadas. Você reconhece e aceita que o custo e a 
+        velocidade de transacionar com criptoativos, como Ethereum, são variáveis e podem aumentar drasticamente a qualquer 
+        momento. Você também reconhece e aceita o risco de escolher negociar em Modos Especialistas, que podem expô-lo a 
+        desvios de preços potencialmente significativos e custos mais altos.
+      </Text>
+      <Text as="p">
+        Se você agir como um provedor de liquidez para o Protocolo através da Plataforma, você entende que seus ativos 
+        digitais podem perder parte ou todo seu valor enquanto estão fornecidos ao Protocolo através da Plataforma devido 
+        à flutuação dos preços dos tokens em um par de negociação ou pool de liquidez.
+      </Text>
+      <Text as="p">
+        Finalmente, você entende que não criamos, possuímos ou operamos  cross-chain "Bridges" e não fazemos nenhuma 
+        representação ou garantia sobre a segurança ou solidez de qualquer "Bridge", incluindo seu uso para governança 
+        da Plataforma.
+      </Text>
+      <Text as="p">
+        Em resumo, você reconhece que não somos responsáveis por nenhuma dessas variáveis ou riscos, não possuímos ou 
+        controlamos o Protocolo e não podemos ser responsabilizados por quaisquer perdas resultantes que você experimente 
+        ao acessar ou usar a Plataforma. Consequentemente, você entende e concorda em assumir total responsabilidade por 
+        todos os riscos de acessar e usar a Plataforma para interagir com o Protocolo.
       </Text>
 
-      <Text as="h3">Indemnity</Text>
+      <Text as="h3">Recursos e Promoções de Terceiros</Text>
       <Text as="p">
-        You agree to hold harmless, release, defend, and indemnify us and our officers, directors, employees,
-        contractors, agents, affiliates, and subsidiaries from and against all claims, damages, obligations, losses,
-        liabilities, costs, and expenses arising from: (a) your access and use of the Website; (b) your violation of any
-        term or condition of this Agreement, the right of any third party, or any other applicable law, rule, or
-        regulation; and (c) any other party's access and use of the Website with your assistance or using any device or
-        account that you own or control.
+        A Plataforma pode incluir links ou referências a recursos de terceiros, como informações, produtos ou serviços, 
+        que não possuímos nem controlamos, bem como promoções de terceiros. Não endossamos nem assumimos responsabilidade 
+        por esses recursos ou promoções. Ao acessá-los ou participar de promoções relacionadas, você o faz por sua conta 
+        e risco, reconhecendo que este Acordo não rege suas interações com terceiros. Você nos isenta expressamente de 
+        qualquer responsabilidade decorrente de seu uso desses recursos ou participação em promoções.
       </Text>
 
-      <Text as="h3">No Warranties</Text>
+      <Text as="h3">Renúncia à Reivindicações</Text>
       <Text as="p">
-        The Website is provided on an "AS IS" and "AS AVAILABLE" basis. TO THE FULLEST EXTENT PERMITTED BY LAW, WE
-        DISCLAIM ANY REPRESENTATIONS AND WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING (BUT
-        NOT LIMITED TO) THE WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. You acknowledge and
-        agree that your use of the Website is at your own risk. We do not represent or warrant that access to the
-        Website will be continuous, uninterrupted, timely, or secure; that the information contained in the Website will
-        be accurate, reliable, complete, or current; or that the Website will be free from errors, defects, viruses, or
-        other harmful elements. No advice, information, or statement that we make should be treated as creating any
-        warranty concerning the Website. We do not endorse, guarantee, or assume responsibility for any advertisements,
-        offers, or statements made by third parties concerning the Website.
-      </Text>
-      <Text as="p">
-        Similarly, the Protocol is provided "AS IS", at your own risk, and without warranties of any kind. Although we
-        contributed to the initial code for the Protocol, we do not provide, own, or control the Protocol, which is run
-        autonomously without any headcount by smart contracts deployed on various blockchains. Upgrades and
-        modifications to the Protocol are generally managed in a community-driven way by holders of the CAKE token. No
-        developer or entity involved in creating the Protocol will be liable for any claims or damages whatsoever
-        associated with your use, inability to use, or your interaction with other users of, the Protocol, including any
-        direct, indirect, incidental, special, exemplary, punitive or consequential damages, or loss of profits,
-        cryptocurrencies, tokens, or anything else of value. We do not endorse, guarantee, or assume responsibility for
-        any advertisements, offers, or statements made by third parties concerning the Website.
+        Como abordado em detalhes, este Acordo estabelece uma limitação abrangente sobre a responsabilidade da Plataforma, 
+        mesmo em casos em que resultados negativos possam surgir devido a quaisquer falhas ou malfuncionamentos da própria 
+        Plataforma. Ao concordar com estes termos, o usuário renuncia expressamente a qualquer direito de buscar 
+        reivindicações ou compensações contra quaisquer danos decorrentes ou, de qualquer forma, relacionados ao uso da 
+        Plataforma em qualquer fórum judicial ou extrajudicial, incluindo, mas, não se limitando, os tribunais ordinários. 
+        Em nenhuma circunstância a plataforma será responsabilizada por quaisquer consequências adversas decorrentes das 
+        atividades de investimento do usuário ou de quaisquer problemas operacionais na plataforma. O usuário, assim, 
+        assume total responsabilidade por todos os resultados associados ao uso da Plataforma.
       </Text>
 
-      <Text as="h3">Limitation of Liability</Text>
+      <Text as="h3">Sem Garantias</Text>
       <Text as="p">
-        UNDER NO CIRCUMSTANCES SHALL WE OR ANY OF OUR OFFICERS, DIRECTORS, EMPLOYEES, CONTRACTORS, AGENTS, AFFILIATES,
-        OR SUBSIDIARIES BE LIABLE TO YOU FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY
-        DAMAGES, INCLUDING (BUT NOT LIMITED TO) DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE
-        PROPERTY, ARISING OUT OF OR RELATING TO ANY ACCESS OR USE OF THE INTERFACE, NOR WILL WE BE RESPONSIBLE FOR ANY
-        DAMAGE, LOSS, OR INJURY RESULTING FROM HACKING, TAMPERING, OR OTHER UNAUTHORIZED ACCESS OR USE OF THE INTERFACE
-        OR THE INFORMATION CONTAINED WITHIN IT. WE ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY: (A) ERRORS, MISTAKES,
-        OR INACCURACIES OF CONTENT; (B) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM ANY
-        ACCESS OR USE OF THE INTERFACE; (C) UNAUTHORIZED ACCESS OR USE OF ANY SECURE SERVER OR DATABASE IN OUR CONTROL,
-        OR THE USE OF ANY INFORMATION OR DATA STORED THEREIN; (D) INTERRUPTION OR CESSATION OF FUNCTION RELATED TO THE
-        INTERFACE; (E) BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE THAT MAY BE TRANSMITTED TO OR THROUGH THE INTERFACE;
-        (F) ERRORS OR OMISSIONS IN, OR LOSS OR DAMAGE INCURRED AS A RESULT OF THE USE OF, ANY CONTENT MADE AVAILABLE
-        THROUGH THE INTERFACE; AND (G) THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY.
+        A Plataforma é fornecida na base "COMO ESTÁ" e "COMO DISPONÍVEL". NA MÁXIMA EXTENSÃO PERMITIDA POR LEI, ISENTAMOS 
+        QUAISQUER REPRESENTAÇÕES E GARANTIAS DE QUALQUER NATUREZA, SEJAM ELAS EXPRESSAS, IMPLÍCITAS OU ESTATUTÁRIAS, 
+        INCLUINDO (MAS NÃO SE LIMITANDO A) AS GARANTIAS DE COMERCIALIZAÇÃO E ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO. Você 
+        reconhece e concorda que o uso da Plataforma é por sua conta e risco. Não representamos nem garantimos que o acesso 
+        à Plataforma será contínuo, ininterrupto, oportuno ou seguro; que as informações contidas na Plataforma serão 
+        precisas, confiáveis, completas ou atuais; ou que a Plataforma estará livre de erros, falhas, vírus ou outros 
+        elementos prejudiciais. Nenhum conselho, informação ou declaração que fizermos deve ser interpretado como a criação 
+        de qualquer garantia em relação à Plataforma. Não endossamos, garantimos ou assumimos responsabilidade por 
+        quaisquer anúncios, ofertas ou declarações feitas por terceiros sobre a Plataforma.
+      </Text>
+      <Text as="p">
+        Da mesma forma, o Protocolo é fornecido "COMO ESTÁ", por sua conta e risco, e sem garantias de qualquer tipo. 
+        Embora tenhamos contribuído em parte do código do Protocolo, não fornecemos, possuímos ou controlamos o 
+        Protocolo, que opera de forma autônoma por meio de contratos inteligentes implantados em várias blockchains. 
+        Nenhum desenvolvedor ou entidade envolvida na criação do Protocolo será responsável por quaisquer reivindicações 
+        ou danos associados ao seu uso, incapacidade de uso ou interação com outros usuários do Protocolo, incluindo 
+        quaisquer danos diretos, indiretos, incidentais, especiais, exemplares, punitivos ou consequenciais, ou perda 
+        de lucros, criptomoedas, tokens ou qualquer outra coisa de valor. Não endossamos, garantimos ou assumimos 
+        responsabilidade por quaisquer anúncios, ofertas ou declarações feitas por terceiros sobre a Plataforma.
       </Text>
 
-      <Text as="h3">Dispute Resolution</Text>
+      <Text as="h3">Limitação de Responsabilidade</Text>
       <Text as="p">
-        We will use our best efforts to resolve any potential disputes through informal, good faith negotiations. If a
-        potential dispute arises, you must contact us by sending an email to info@pancakeswap.come so that we can
-        attempt to resolve it without resorting to formal dispute resolution. If we aren't able to reach an informal
-        resolution within sixty days of your email, then you and we both agree to resolve the potential dispute
-        according to the process set forth below.
-      </Text>
-      <Text as="p">
-        Any claim or controversy arising out of or relating to the Website, this Agreement, or any other acts or
-        omissions for which you may contend that we are liable, including (but not limited to) any claim or controversy
-        as to arbitrability ("Dispute"), shall be finally and exclusively settled by arbitration under the Arbitration
-        Rules of the Hong Kong International Arbitration Centre. You understand that you are required to resolve all
-        Disputes by binding arbitration. The arbitration shall be held on a confidential basis before a single
-        arbitrator, who shall be selected pursuant to Arbitration Rules of the Centre. The arbitration will be held in
-        Hong Kong, unless you and we both agree to hold it elsewhere. Unless we agree otherwise, the arbitrator may not
-        consolidate your claims with those of any other party. Any judgment on the award rendered by the arbitrator may
-        be entered in any court of competent jurisdiction.
+         EM NENHUMA CIRCUNSTÂNCIA NÓS E TODO O TIME ENVOLVIDO COM A PLATAFORMA, INCLUINDO SUBSIDIÁRIAS, SEREMOS
+         RESPONSÁVEIS PERANTE VOCÊ POR QUAISQUER DANOS INDIRETOS, PUNITIVOS, INCIDENTAIS, ESPECIAIS, CONSEQUENCIAIS
+         OU EXEMPLARES, INCLUINDO (MAS NÃO SE LIMITANDO A) DANOS POR PERDA DE LUCROS, DADOS OU OUTROS BENS INTANGÍVEIS, 
+         DECORRENTES DE OU RELACIONADOS A QUALQUER ACESSO OU USO DA INTERFACE, NEM SEREMOS RESPONSÁVEIS POR QUAISQUER 
+         DANOS, PERDAS OU LESÕES RESULTANTES DE HACKING, MANIPULAÇÃO OU OUTRO ACESSO OU USO NÃO AUTORIZADO DA INTERFACE 
+         OU DAS INFORMAÇÕES CONTIDAS NELA. NÃO ASSUMIMOS NENHUMA RESPONSABILIDADE OU OBRIGAÇÃO POR QUAISQUER: 
+         (A) ERROS OU INEXATIDÕES DE CONTEÚDO; (B) LESÕES PESSOAIS OU DANOS A PROPRIEDADE, DE QUALQUER NATUREZA, 
+         RESULTANTES DE QUALQUER ACESSO OU USO DA INTERFACE; (C) ACESSO OU USO NÃO AUTORIZADO DE QUALQUER SERVIDOR OU 
+         BANCO DE DADOS SEGURO SOB NOSSO CONTROLE, OU O USO DE QUALQUER INFORMAÇÃO OU DADOS ARMAZENADOS NELA; 
+         (D) INTERRUPÇÃO OU CESSAÇÃO DA FUNÇÃO RELACIONADA À INTERFACE; (E) VÍRUS, CAVALOS DE TRÓIA OU SEMELHANTES QUE 
+         POSSAM SER TRANSMITIDOS PARA OU ATRAVÉS DA INTERFACE; (F) ERROS OU OMISSÕES EM, OU PERDA OU DANOS INCORRIDOS 
+         COMO RESULTADO DO USO DE, QUALQUER CONTEÚDO DISPONIBILIZADO ATRAVÉS DA INTERFACE; E (G) A CONDUTA DIFAMATÓRIA, 
+         OFENSIVA OU ILEGAL DE QUALQUER TERCEIRO.
       </Text>
 
-      <Text as="h3">Class Action and Jury Trial Waiver</Text>
+      <Text as="h3">Resolução de Disputas</Text>
       <Text as="p">
-        You must bring any and all Disputes against us in your individual capacity and not as a plaintiff in or member
-        of any purported class action, collective action, private attorney general action, or other representative
-        proceeding. This provision applies to class arbitration. You and we both agree to waive the right to demand a
-        trial by jury.
+        Envidaremos todos os esforços razoáveis para resolver quaisquer disputas potenciais por meio de negociações 
+        informais de boa-fé. Em caso de disputa, você deve entrar em contato conosco por e-mail em business@plexfinance.us 
+        para iniciar este processo. Caso esses esforços não resultem em uma resolução, você reconhece e concorda 
+        expressamente que este resultado será considerado final, e nenhuma ação adicional poderá ser buscada em qualquer 
+        outro fórum legal.
       </Text>
 
-      <Text as="h3">Governing Law</Text>
+      <Text as="h3">Acordo Integral</Text>
       <Text as="p">
-        You agree that the laws of Hong Kong, without regard to principles of conflict of laws, govern this Agreement
-        and any Dispute between you and us. You further agree that the Website shall be deemed to be based solely in the
-        State of Hong Kong, and that although the Website may be available in other jurisdictions, its availability does
-        not give rise to general or specific personal jurisdiction in any forum outside Hong Kong. Any arbitration
-        conducted pursuant to this Agreement shall be governed by the Arbitration Rules of the Centre. You agree that
-        the courts of Hong Kong are the proper forum for any appeals of an arbitration award or for court proceedings in
-        the event that this Agreement's binding arbitration clause is found to be unenforceable.
+        Estes termos constituem o acordo integral entre você e nós em relação ao objeto deste. Este Acordo substitui 
+        todos e quaisquer acordos escritos e orais anteriores ou contemporâneos, comunicações e outros entendimentos
+        (se houver) relacionados ao objeto dos termos.
       </Text>
 
-      <Text as="h3">Entire Agreement</Text>
       <Text as="p">
-        These terms constitute the entire agreement between you and us with respect to the subject matter hereof. This
-        Agreement supersedes any and all prior or contemporaneous written and oral agreements, communications and other
-        understandings (if any) relating to the subject matter of the terms.
+        Se o usuário encontrar alguma dificuldade na interpretação das limitações de seus direitos conforme descrito 
+        neste acordo, é fortemente recomendado que consulte um profissional jurídico qualificado. Este passo é crucial 
+        para garantir uma compreensão clara das obrigações e restrições do usuário.
       </Text>
 
-      <Text as="h3">Gas Fees</Text>
+      <Text as="h3">Reconhecimento da Responsabilidade</Text>
       <Text as="p">
-        Blockchain transactions require the payment of transaction fees to the appropriate network (“Gas Fees”). Except
-        as otherwise expressly set forth in the terms of another offer by Plexswap, you will be solely responsible to
-        pay the Gas Fees for any transaction that you initiate.
+        Caso, ao analisar este Acordo, você conclua que ele estabelece um quadro excessivamente severo em relação 
+        ao usuário, isentando a Plataforma de quase todas as responsabilidades, isso indicará que você leu o Acordo com 
+        atenção. Nessa hipótese, se você discordar dessa abordagem, deverá abster-se completamente de utilizar a Plataforma.
       </Text>
+
     </Container>
   )
 }
